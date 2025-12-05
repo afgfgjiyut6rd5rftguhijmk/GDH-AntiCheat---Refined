@@ -1,6 +1,6 @@
 # Orignally made by ThatOneGorilla
 https://github.com/ThatOneG0rilla/Anticheat
-# GDH Antivirus, Refined, Enhanced, Security First. Still Free.
+# GDH AntiCheat, Refined, Enhanced, Security First. Still Free.
 ## Introduction
 Steps:
 - Import Package and put the 2 other scripts in scene
