@@ -1,4 +1,5 @@
-# Introduction
+# Orignally made by ThatOneGorilla
+## Introduction
 Steps:
 - Import Package and put the 2 other scripts in scene
 - On player, turn on debug and check for issues, fix if any issues are debug logged
@@ -6,7 +7,7 @@ Steps:
 - Make a github account and make a new repository
 - Make a new file and put the version in it (example 1.0)
 - Then get the raw link and paste it in and set the objects up
-# OR
+## OR
 Follow [this](https://youtu.be/Rb0OiYEEWb4) tutorial
 
 The package offers a range of features, including:
